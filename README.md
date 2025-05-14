@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariam Ayman</h1>
-
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mariam511&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&title=Profile+Views&edge_flat=false)
+![](https://komarev.com/ghpvc/?username=mariam511&color=ff69b4)
 
 
 ---
