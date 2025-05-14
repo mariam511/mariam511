@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariam Ayman</h1>
-![Profile views](https://komarev.com/ghpvc/?username=mariam511&color=ff69b4)
-
+<img src="https://komarev.com/ghpvc/?username=mariam511&color=ff69b4" alt="Profile views">
 
 
 ---
