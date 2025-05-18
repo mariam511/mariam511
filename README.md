@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=mariam511&color=ff69b4" alt="Profile views">
 
 <p align="center">
-  <img src="./gitImage.png" alt="Git Image" width="400"/>
+  <img src="./gitImage.jpg" alt="Git Image" width="400"/>
 </p>
 ---
 
