@@ -5,7 +5,9 @@
 ---
 
 👩‍💻 I'm a Computer Science student 
+
 📫 How to reach me: **mariamayman5112003@gmail.com**  
+
 🔗 My GitHub Projects: [github.com/mariam511](https://github.com/mariam511)
 
 ---
