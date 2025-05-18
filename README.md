@@ -4,6 +4,8 @@
 <p align="center">
   <img src="./gitImage.jpg" alt="Git Image" width="400"/>
 </p>
+
+
 ---
 
 👩‍💻 I'm a Computer Science student 
