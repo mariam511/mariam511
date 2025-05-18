@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariam Ayman</h1>
-<img src="https://komarev.com/ghpvc/?username=mariam511&color=6f4e37" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=mariam511&color=764d30" alt="Profile views">
 
 <p align="center">
   <img src="./gitImage.jpg" alt="Git Image" width="400"/>
