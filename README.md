@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mariam Ayman</h1>
 <img src="https://komarev.com/ghpvc/?username=mariam511&color=ff69b4" alt="Profile views">
 
-<img src="gitImage.png" alt="Git Image" width="400"/>
-
-
+<p align="center">
+  <img src="./gitImage.png" alt="Git Image" width="400"/>
+</p>
 ---
 
 👩‍💻 I'm a Computer Science student 
