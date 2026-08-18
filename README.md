@@ -1,27 +1,116 @@
 <h1 align="center">Hi 👋, I'm Mariam Ayman</h1>
-<img src="https://komarev.com/ghpvc/?username=mariam511&color=764d30" alt="Profile views">
 
 <p align="center">
-  <img src="./gitImage.jpg" alt="Git Image" width="200"/>
+  <b>Software Engineer • Full-Stack Developer • Problem Solver</b>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mariam511&color=764d30" alt="Profile views">
+</p>
 
 ---
 
-👩‍💻 I'm a Computer Science student 
+## 👩‍💻 About Me
 
-📫 How to reach me: **mariamayman5112003@gmail.com**  
+🎓 Computer Science student at **Cairo University**, graduating in 2026.
 
-🔗 My GitHub Projects: [github.com/mariam511](https://github.com/mariam511)
+I'm interested in **software engineering, full-stack development, and problem solving**. I enjoy building practical applications, understanding how systems work, and solving technical problems through clean and maintainable code.
 
-💼 Connect with me on LinkedIn: [linkedin.com/in/ma-ri-am](https://www.linkedin.com/in/ma-ri-am/)
+- 💻 Experienced with **Java, C++, JavaScript, TypeScript, and Python**
+- ⚙️ Interested in **Backend, Frontend, and Full-Stack Development**
+- 🌐 Worked with **Spring Boot, Node.js, React, and FastAPI**
+- 🧠 Strong foundation in **Data Structures, Algorithms, OOP, and Problem Solving**
+- 🏆 **ECPC 2024 Finalist — Ranked 20th among 301+ teams**
 
 ---
 
-<!-- Optional: GitHub Stats -->
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariam511&show_icons=true&theme=tokyonight" />
-</p>
--->
+## 🧠 Problem Solving
 
+I enjoy solving algorithmic problems and improving my problem-solving skills through competitive programming.
+
+- Data Structures & Algorithms
+- Algorithm Design
+- Complexity Analysis
+- Problem Decomposition
+- C++ Competitive Programming
+
+🏆 **ECPC 2024 Finalist — 20th among 301+ teams**
+
+---
+
+## 🚀 Featured Projects
+
+### 🛡️ DefexHunter
+
+**Graduation Project — Cairo University**
+
+An intelligent software engineering platform combining machine learning, static analysis, fuzzy logic, LLM-based analysis, and UML validation to assess software quality and defect risk.
+
+**Tech:** React · TypeScript · FastAPI · Python · PostgreSQL
+
+---
+
+### 🏥 DEPI Hospital Management System
+
+A full-stack web application developed during my training for managing hospital-related operations.
+
+**Tech:** MongoDB · Express.js · React · Node.js
+
+---
+
+### 🗳️ Online Voting System
+
+A secure backend application implementing authentication, authorization, and role-based access control.
+
+**Tech:** Java · Spring Boot · MySQL · JPA/Hibernate · JWT
+
+---
+
+### 🍳 YaLaziz
+
+A recipe web application with a responsive frontend and backend services.
+
+**Tech:** HTML · CSS · JavaScript · Django · Python
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+C++ · Java · JavaScript · TypeScript · Python · SQL
+
+### Frontend
+React · HTML5 · CSS3 · Vite
+
+### Backend
+Node.js · Express.js · Spring Boot · FastAPI · Django
+
+### Databases
+PostgreSQL · MySQL · MongoDB
+
+### Software Engineering
+REST APIs · OOP · Data Structures & Algorithms · Authentication & Authorization · Git
+
+### Tools
+Git · GitHub · Docker · Linux · VS Code · IntelliJ IDEA
+
+---
+
+## 🎓 Education
+
+**Faculty of Computers and Artificial Intelligence — Cairo University**
+
+Computer Science · 2026
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/mariam511">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ma-ri-am/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
